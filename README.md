@@ -35,10 +35,10 @@
 
 ### 🚀 Featured Work
 
-- **[Openbounty](https://www.akkki.tech)** — GitHub-native bounty platform for human & AI contributors
-- **GetItDone** — AI-driven HR platform with a voice agent
-- **ReimburseFlow** — expense reimbursement with OCR & multi-currency
-- **Pune Sand** — mini-ERP turning supplier challans into GST invoices
+- **[Magpie](https://magpie.akkki.tech)** — AI-native finance workspace
+- **[Emberflow](https://github.com/akkki007/emberflow)** — orchestrate edge inference nodes running local LLMs (Ollama on k3s) with live routing viz
+- **[Openbounty](https://github.com/akkki007/openbounty)** — GitHub-native bounty platform for human & AI contributors
+- **[ReimburseFlow](https://reimbursement-management-odoo-bay.vercel.app)** — expense reimbursement with OCR & multi-currency
 
 ### 📫 Connect
 
