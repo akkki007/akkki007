@@ -1,25 +1,56 @@
-<h1 align="center">Hi 👋, I'm Akshay Mahesh Nazare</h1>
-<h3 align="center">A passionate Full-stack developer from India working on different industry-level projects and currently researching about AI&ML</h3>
+<div align="center">
 
-- 🔭 I’m currently working on **An mobile app that is for businesses in React Native (Expo) that is a Client Project**
+<a href="https://www.akkki.tech"><img src="https://img.shields.io/badge/🌐_Portfolio-akkki.tech-000000?style=for-the-badge&labelColor=000000&color=6366f1" alt="Portfolio" /></a>
 
-- 🌱 I’m currently learning **Langgraph,Langchain,CopilotKit,AG-UI**
+<a href="https://www.akkki.tech"><img src="./assets/neofetch.svg" alt="neofetch — Akshay Nazare, Design Engineer · AI · Freelancer" width="100%" /></a>
 
-- 👯 I’m looking to collaborate on **AI-Based full stack projects**
+</div>
 
-- 📫 How to reach me **akshaynazare3@gmail.com**
+### 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/akshay-nazare-28138124a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-nazare-28138124a" height="30" width="40" /></a>
-<a href="https://instagram.com/akshayyy_nazare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshayyy_nazare" height="30" width="40" /></a>
-<a href="https://hashnode.com/akkkii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="akkkii" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshay" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,angular,tailwind,nodejs,bun,django,fastapi&perline=11" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite,prisma,redis,docker,linux,git,vercel,figma,postman&perline=11" />
 </p>
 
-<div><a href="https://cloud.layer5.io/user/f9aa9956-8de2-414b-8a61-9452bb84f11f?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rocicorp_Zero-FF3E00?style=flat-square" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🌍 Open Source
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akkki007&" alt="akkki007" /></p>
+| Project | Org | |
+|---|---|---|
+| ☸️ **Meshery** | Layer5 / CNCF | [PRs →](https://github.com/pulls?q=author%3Aakkki007+org%3Ameshery-extensions+org%3Ameshery) |
+| 🎵 **Music Blocks** | Sugar Labs | [PRs →](https://github.com/sugarlabs/musicblocks/pulls?q=author%3Aakkki007) |
+| 🐙 **Ceph** | Ceph Foundation | [PRs →](https://github.com/ceph/ceph/pulls?q=author%3Aakkki007) |
+
+<a href="https://cloud.layer5.io/user/f9aa9956-8de2-414b-8a61-9452bb84f11f?tab=badges&badge=first-design"><img width="90" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 First Design" /></a>
+
+### 🚀 Featured Work
+
+- **[Openbounty](https://www.akkki.tech)** — GitHub-native bounty platform for human & AI contributors
+- **GetItDone** — AI-driven HR platform with a voice agent
+- **ReimburseFlow** — expense reimbursement with OCR & multi-currency
+- **Pune Sand** — mini-ERP turning supplier challans into GST invoices
+
+### 📫 Connect
+
+<p align="left">
+  <a href="https://www.akkki.tech"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/akshaynazare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/anindiandev"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://youtube.com/@Anindiandeveloper"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/akkiii007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:akshaynazare3@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkki007&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
